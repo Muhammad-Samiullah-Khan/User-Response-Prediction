@@ -10,7 +10,6 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/7Vivek/User-Response-Prediction-System?color=5ac8fa)
 ![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/User-Response-Prediction-System?color=4cd964)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/7Vivek/User-Response-Prediction-System?color=dd04fa)
-![Relative date](https://img.shields.io/date/1635338107?color=1c80f6)
 ![GitHub top language](https://img.shields.io/github/languages/top/7Vivek/User-Response-Prediction-System?color=ffff66)
 ![GitHub language count](https://img.shields.io/github/languages/count/7Vivek/User-Response-Prediction-System?color=04e2b5)
 </div>
