@@ -1,18 +1,6 @@
 <div align = "center">
   
 ## User-Response-Prediction-Model
-<h3> <i> iNeuron Internship Project</i></h3>
-<h4>Project Teammates : Vivek Limbad, Manali Kadam, Rueben Patil, Siddhanth Ghag </h4>
-  
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-ff2d55.svg)](https://www.gnu.org/licenses/gpl-3.0)
-![Lines of code](https://img.shields.io/tokei/lines/github/7Vivek/User-Response-Prediction-System?color=5856d6)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/7Vivek/User-Response-Prediction-System?color=ff9500)
-![GitHub repo size](https://img.shields.io/github/repo-size/7Vivek/User-Response-Prediction-System?color=5ac8fa)
-![GitHub last commit](https://img.shields.io/github/last-commit/7Vivek/User-Response-Prediction-System?color=4cd964)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/w/7Vivek/User-Response-Prediction-System?color=dd04fa)
-![GitHub top language](https://img.shields.io/github/languages/top/7Vivek/User-Response-Prediction-System?color=ffff66)
-![GitHub language count](https://img.shields.io/github/languages/count/7Vivek/User-Response-Prediction-System?color=04e2b5)
-</div>
 
 <h2 align = "center"> 🎬 Project Demo </h2>
 
@@ -85,21 +73,6 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 | `Linear Support Vector Classification`  | 95.33% |
 | `k Nearest Neighbors Classifier`        | 95% |
 
-<h2> ✔ How to Install and Use</h2>
-
-- Install Python. Download my repo and change to directory of repo.
-- To install the required packages and libraries, run this command in the project directory after cloning the repository:
-
-**On command prompt, run**
-```
-pip install -r requirements.txt
-```
-**Running the app**
-
-Go to this app's directory and run
-```
-python app.py
-```
 
 <h2> 🧩 Contributors </h2>
 
@@ -110,7 +83,7 @@ python app.py
 [![LinkedIn](https://img.shields.io/badge/SiddhanthGhag-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siddhanth-ghag-68b7511a9)
 <br>
 [![LinkedIn](https://img.shields.io/badge/VivekLimbad-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vivek-limbad-412667215/)
-[![GitHub](https://img.shields.io/badge/VivekLimbad-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/7Vivek)
+[![GitHub](https://img.shields.io/badge/sami-khan-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction)
 
 
 
