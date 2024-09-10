@@ -9,7 +9,7 @@
 <h4>📂 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/tree/main/Dataset">Dataset</a></h4>
 <h4> ✔ Application is hosted on Render. You can see the <a href="https://user-response-prediction-system-1.onrender.com/">Demo</a></h4>
 
-https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-aba9-201b8c20b436.mp4
+https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/User-Response-Prediction.mp4
 
 <div align = "center">
   
