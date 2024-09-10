@@ -62,7 +62,7 @@ warnings.filterwarnings('ignore')
 # In[2]:
 
 
-df = pd.read_csv(r'C:\Users\Vivek 6666\Downloads\advertising.csv')
+df = pd.read_csv(r'advertising.csv')
 df.head()
 
 
