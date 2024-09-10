@@ -7,7 +7,7 @@
 <h4>📑 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/Documentation/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h4>
 <h4>🎞 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/Documentation/Wireframe%20Documentation.pdf">Wireframe</a></h4>
 <h4>📂 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/tree/main/Dataset">Dataset</a></h4>
-<h4> ✔ Application is hosted on Heroku. You can see the <a href="https://user-response-prediction.herokuapp.com/">Demo</a></h4>
+<h4> ✔ Application is hosted on Render. You can see the <a href="https://user-response-prediction-system-1.onrender.com/">Demo</a></h4>
 
 https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-aba9-201b8c20b436.mp4
 
