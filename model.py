@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import pickle
 
-dataset = pd.read_csv(r'C:\Users\Vivek 6666\Downloads\advertising.csv')
+dataset = pd.read_csv(r'advertising.csv')
 
 
 X = dataset[['Daily Time Spent on Site', 'Age', 'Area Income', 'Daily Internet Usage', 'Male']]
