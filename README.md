@@ -5,7 +5,7 @@
 <h2 align = "center"> 🎬 Project Demo </h2>
 
 <h4>📑 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/Documentation/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h4>
-<h4>🎞 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/Documentation/Wireframe%20Documentation.pdf">Wireframe</a></h4>
+<h4>🎞 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/Documentation/WireframeDocumentation.pdf">Wireframe</a></h4>
 <h4>📂 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/tree/main/Dataset">Dataset</a></h4>
 <h4> ✔ Application is hosted on Render. You can see the <a href="https://user-response-prediction-system-1.onrender.com/">Demo</a></h4>
 
@@ -13,15 +13,15 @@ https://user-images.githubusercontent.com/77670138/139003060-000ff0fd-9b7b-4cb4-
 
 <div align = "center">
   
-[![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)]
-[![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)]
-[![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)]
-[![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)]
-[![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]
-[![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)]
-[![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)]
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)]
-[![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)]
+![python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
+![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)
+![Plotly](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 <h2>🖱 User-Response-Prediction: What, why, and how ?</h2>
 
 <img align = "right" src="https://miro.medium.com/max/960/1*hIPMAi6s0xF23Y8GWcPWWA.gif" style="width:300px;height:160px;"></img>    
