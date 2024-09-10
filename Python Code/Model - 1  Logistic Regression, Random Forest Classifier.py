@@ -23,7 +23,7 @@ get_ipython().run_line_magic('matplotlib', 'inline')
 
 
 # Reading the file 
-df = pd.read_csv(r"C:\Users\Vivek 6666\Downloads\advertising.csv") 
+df = pd.read_csv(r"advertising.csv") 
 
 
 # ## Examine the data
