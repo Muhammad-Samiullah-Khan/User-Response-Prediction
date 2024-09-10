@@ -5,7 +5,7 @@
 <h2 align = "center"> 🎬 Project Demo </h2>
 
 <h4>📑 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/Documentation/User%20Response%20Prediction%20System%20using%20Machine%20Learning%20Techniques.pdf">Documentation</a></h4>
-<h4>🎞 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/Documentation/WireframeDocumentation.pdf">Wireframe</a></h4>
+<h4>🎞 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/blob/main/Documentation/WireframeDocumentaion.pdf">Wireframe</a></h4>
 <h4>📂 <a href="https://github.com/Muhammad-Samiullah-Khan/User-Response-Prediction/tree/main/Dataset">Dataset</a></h4>
 <h4> ✔ Application is hosted on Render. You can see the <a href="https://user-response-prediction-system-1.onrender.com/">Demo</a></h4>
 
